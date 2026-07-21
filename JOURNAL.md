@@ -9,3 +9,8 @@ here's the final schematic!<br \>
 <b>entry time : 41 minutes</b><br \>
 <b>total time : 41 minutes</b>
 <hr>
+<h3>entry 2, 21/07/26 : 15:00 - 18:34</h3>
+<br \>
+<b>entry time : 3 hours 34 minutes</b><br \>
+<b>total time : 3 hours 34 minutes</b>
+<hr>
