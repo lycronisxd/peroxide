@@ -41,3 +41,21 @@ but im just so glad i finally learned a bit of embedded electronics from just a 
 <b>entry time : 3 hours 34 minutes</b><br \>
 <b>total time : 4 hours 15 minutes</b>
 <hr>
+<h3>entry 3, 22/07/26 : 08:21 - 08:46, 9:01 - 10:10</h3>
+first entry of the day! (and it took a lot longer than i expected)<br \>
+i moved all the silkscreen numbers about and this is what the drc and board look like!<br \>
+i made all the designators 0.8mm x 0.8mm and 0.15mm thick because otherwise they just wouldnt fit :(<br \>
+<img width="1295" height="824" alt="image" src="https://github.com/user-attachments/assets/d325541f-2e52-4c5b-b869-91d2a733cf9a" /><br \>
+<img width="365" height="752" alt="image" src="https://github.com/user-attachments/assets/516a4ebf-71c2-4768-b9cc-3f0337b9c6d8" /><br \>
+i made some decals in photoshop as well!<br \>
+imported them into kicad and changed the board colour, and this is what it looks like!<br \>
+<img width="373" height="775" alt="image" src="https://github.com/user-attachments/assets/a344a80e-d251-4815-ad22-5eb7e7aa8bab" /><br \>
+<img width="310" height="608" alt="image" src="https://github.com/user-attachments/assets/765bd096-df3d-495a-ab23-25e2475db2b4" /><br \>
+im really happy with the final product!<br \>
+<br \>
+<b>entry time : 1 hours 34 minutes</b><br \>
+<b>total time : 5 hours 49 minutes</b>
+
+
+
+
