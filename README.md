@@ -18,4 +18,7 @@
 </picture><br \>
 <br \>
 a simple rp2040 dev board to teach me embedded electronics!
+<br \>
+  <br \>
+<img src="images/board_black.png" width="500">
 </h3>
