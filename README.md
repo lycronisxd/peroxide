@@ -22,7 +22,9 @@ a simple rp2040 dev board to teach me embedded electronics!
 <br \>
 <div align="center">
   
-![kicad](https://img.shields.io/badge/kicad-blue?style=for-the-badge&logo=kicad)
+  ![kicad](https://img.shields.io/badge/kicad-blue?style=for-the-badge&logo=kicad)
+  ![blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)
+  ![rpi](https://img.shields.io/badge/raspberry%20pi-red?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 </div>
 <img src="images/board_black.png" width="500">
