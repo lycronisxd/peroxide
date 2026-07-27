@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img alt="use as template!" width="">
-</picture>
-
 <h3 align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/logo_white.png">
