@@ -24,7 +24,7 @@ a simple rp2040 dev board to teach me embedded electronics!
 <img src="images/board_black.png" width="500">
 </h3>
 <hr>
-<h2 align="center">about.</h3>
+<h2 align="center">about.</h2>
 
 <h3 align="center">
 pentoxide is a small intro for me into the world of embedded electronics,<br \>
@@ -39,7 +39,7 @@ flash memory and voltage regulators.<br \>
 </h3>
 <hr>
 
-<h2 align="center">features.</h3><br \>
+<h2 align="center">features.</h2><br \>
 <h3 align="left">
 <ul>
 <li>rp2040 based</li>
@@ -53,7 +53,7 @@ flash memory and voltage regulators.<br \>
 </h4>
 <hr>
 
-<h2 align="center">showcase.</h3>
+<h2 align="center">showcase.</h2>
 <p align="center">
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b79073f8-6fea-4ee1-b067-8f8d56534a04" /><br \>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7879bddc-af07-4cb9-bf15-603a99cf7db4" /><br \>
