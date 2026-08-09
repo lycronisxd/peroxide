@@ -84,11 +84,8 @@ link to a-shift<br \>
 link to pentoxide<br \>
 <a href="https://github.com/lycronisxd/pentoxide">lycronisxd/pentoxide</a><br \>
 <br \>
-link to oxide-one<br \>
-<a href="https://github.com/lycronisxd/oxide-one">lycronisxd/oxide-one</a><br \>
-<br \>
-link to ohm<br \>
-<a href="https://github.com/lycronisxd/ohm">lycronisxd/ohm</a><br \>
+link to e-split<br \>
+<a href="https://github.com/lycronisxd/e-split">lycronisxd/e-split</a><br \>
 <br \>
 link to polylactic<br \>
 <a href="https://github.com/lycronisxd/polylactic">lycronisxd/polylactic</a>
