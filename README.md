@@ -76,6 +76,7 @@ flash memory and voltage regulators.<br \>
 <h3>
 link to repo pcb files<br \>
 <a href="https://github.com/lycronisxd/peroxide/tree/main/pcb">lycronisxd/peroxide/pcb</a><br \>
+<br \>
 link to pcbway quote / component bill of materials<br \>
 <a href="https://github.com/lycronisxd/peroxide/blob/main/peroxide_pcbway_quote_bom.xls">lycronisxd/peroxide/peroxide_pcbway_quote_bom.xls</a><br \>
 <br \>
