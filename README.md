@@ -1,4 +1,4 @@
-<h3 align="center">
+<img width="994" height="371" alt="image" src="https://github.com/user-attachments/assets/ae1f5d73-8c84-4c1b-9bfe-c7c8d62edf59" /><h3 align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/logo_white.png">
   <source media="(prefers-color-scheme: light)" srcset="images/logo_black.png">
@@ -69,9 +69,8 @@ flash memory and voltage regulators.<br \>
 
 |item no.|part no.|part name     |qty.|supplier|unit cost|total cost|notes                                                                                                   |
 |--------|--------|--------------|----|--------|---------|----------|--------------------------------------------------------------------------------------------------------|
-|1       |PCB-001 |peroxide-board|5   |jlcpcb  | $6.96   |34.79     |this is the cheapest i could get it, with 2 boards assembled, standard assembly and a 9 dollar coupon :(|
-
-<img width="1276" height="468" alt="image" src="https://github.com/user-attachments/assets/b6f54df4-094f-438f-87a7-f14c612d24ff"> 
+|1       |PCB-001 |peroxide-board|5   |pcbway  |N/A   |N/A     |the pcb and pcb assembly is kindly sponsored by pcbway <3 |
+<img width="994" height="371" alt="image" src="https://github.com/user-attachments/assets/2865a968-e90e-4755-ae5c-96eb3c60e6f2" />
 <hr>
 <h2 align="center">relevant links.</h2>
 <h3>
