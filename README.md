@@ -1,4 +1,4 @@
-<img width="994" height="371" alt="image" src="https://github.com/user-attachments/assets/ae1f5d73-8c84-4c1b-9bfe-c7c8d62edf59" /><h3 align="center">
+<h3 align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/logo_white.png">
   <source media="(prefers-color-scheme: light)" srcset="images/logo_black.png">
@@ -76,6 +76,8 @@ flash memory and voltage regulators.<br \>
 <h3>
 link to repo pcb files<br \>
 <a href="https://github.com/lycronisxd/peroxide/tree/main/pcb">lycronisxd/peroxide/pcb</a><br \>
+link to pcbway quote / component bill of materials<br \>
+<a href="https://github.com/lycronisxd/peroxide/blob/main/peroxide_pcbway_quote_bom.xls">lycronisxd/peroxide/peroxide_pcbway_quote_bom.xls</a><br \>
 <br \>
 link to a-shift<br \>
 <a href="https://github.com/lycronisxd/a-shift">lycronisxd/a-shift</a><br \>
