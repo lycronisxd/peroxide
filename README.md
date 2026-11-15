@@ -67,10 +67,15 @@ flash memory and voltage regulators.<br \>
 <hr>
 <h2 align="center">bill of materials.</h2><br \>
 
-|item no.|part no.|part name     |qty.|supplier|unit cost|total cost|notes                                                                                                   |
-|--------|--------|--------------|----|--------|---------|----------|--------------------------------------------------------------------------------------------------------|
-|1       |PCB-001 |peroxide-board|5   |pcbway  |N/A   |N/A     |the pcb and pcb assembly is kindly sponsored by pcbway <3 |
-<img width="994" height="371" alt="image" src="https://github.com/user-attachments/assets/2865a968-e90e-4755-ae5c-96eb3c60e6f2" />
+
+|part                                |type    |quantity|unit price (USD)|line total (USD)|link|vendor|funding|notes                                                   |
+|------------------------------------|--------|--------|----------------|----------------|----|------|-------|--------------------------------------------------------|
+|peroxide pcb                        |PCB     |5       |0.80            |4.00            |    |jlcpcb|Grant  |this is the cheapest option jlcpcb has                  |
+|peroxide pcb assembly               |PCB     |2       |33.755          |67.51           |    |jlcpcb|Grant  |this is the lowest no. of assembled parts i could get :(|
+|global standard direct line shipping|Shipping|1       |7.67            |7.67            |    |jlcpcb|Grant  |this is the cheapest option jlcpcb has                  |
+|total                               |        |        |                |79.18           |    |      |       |                                                        |
+
+<img width="1295" height="580" alt="image" src="https://github.com/user-attachments/assets/f9ffafa0-47cd-4a0a-9eca-8d0ac56ce054" />
 <hr>
 <h2 align="center">relevant links.</h2>
 <h3>
