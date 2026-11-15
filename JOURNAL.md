@@ -15,7 +15,6 @@ here's the final schematic!<br \>
 <br \>
 <img width="1754" height="1241" alt="image" src="https://github.com/user-attachments/assets/4c064485-e1d8-45c7-8912-6241899351a3" /><br \>
 <br \>
-<b>entry time : 41 minutes<br \></b>
 </p>
 
 **total time spent : 41 minutes**
@@ -53,10 +52,9 @@ i'll make a funky looking readme - maybe something like my other project pentoxi
 <br \>
 but im just so glad i finally learned a bit of embedded electronics from just a schematic and a bit of thinking!<br \>
 <br \>
-<b>entry time : 3 hours 34 minutes</b><br \>
 </p>
 
-**total time spent : 4 hours 15 minutes**
+**total time spent : 3 hours 34 minutes**
 
 <hr>
 
@@ -74,10 +72,9 @@ imported them into kicad and changed the board colour, and this is what it looks
 <img width="310" height="608" alt="image" src="https://github.com/user-attachments/assets/765bd096-df3d-495a-ab23-25e2475db2b4" /><br \>
 im really happy with the final product!<br \>
 <br \>
-<b>entry time : 1 hours 34 minutes</b><br \>
 </p>
 
-**total time spent : 5 hours 49 minutes**
+**total time spent : 1 hours 34 minutes**
 
 
 
