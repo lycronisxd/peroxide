@@ -1,4 +1,10 @@
-<h1>journal time</h1>
+---
+title: "peroxide"
+github: "https://github.com/lycronisxd/peroxide"
+description: "a simple rp2040 dev board to teach me embedded electronics!"
+created_at: "2026-07-21"
+total_time: "5h 49m"
+---
 <h3>entry 1, 21/07/26 : 14:00 - 14:41</h3>
 this entire time was spent learning about the rp2040 and wiring a schematic for the board!<br \>
 i followed the rp2040 minimal design example documentation and amended my design for usb-c support and some gpio pins for space reasons.<br \>
