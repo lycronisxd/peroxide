@@ -1,0 +1,5 @@
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes
+peroxide pcb,PCB,5,0.80,4.00,,jlcpcb,Grant,this is the cheapest option jlcpcb has
+peroxide pcb assembly,PCB,2,33.755,67.51,,jlcpcb,Grant,this is the lowest no. of assembled parts i could get :(
+global standard direct line shipping,Shipping,1,7.67,7.67,,jlcpcb,Grant,this is the cheapest option jlcpcb has
+Total,,,,79.18,,,,
