@@ -5,17 +5,26 @@ description: "a simple rp2040 dev board to teach me embedded electronics!"
 created_at: "2026-07-21"
 total_time: "5h 49m"
 ---
-<h3>entry 1, 21/07/26 : 14:00 - 14:41</h3>
+
+## july 21st, 2026: entry 1
+
+<p>
 this entire time was spent learning about the rp2040 and wiring a schematic for the board!<br \>
 i followed the rp2040 minimal design example documentation and amended my design for usb-c support and some gpio pins for space reasons.<br \>
 here's the final schematic!<br \>
 <br \>
 <img width="1754" height="1241" alt="image" src="https://github.com/user-attachments/assets/4c064485-e1d8-45c7-8912-6241899351a3" /><br \>
 <br \>
-<b>entry time : 41 minutes</b><br \>
-<b>total time : 41 minutes</b>
+<b>entry time : 41 minutes<br \></b>
+</p>
+
+**total time spent : 41 minutes**
+
 <hr>
-<h3>entry 2, 21/07/26 : 15:00 - 18:34</h3>
+
+## july 21st, 2026: entry 2
+
+<p>
 this took loads and loads of trial and error so strap in for it!<br \>
 i first assigned footprints to all the components, which is all well and good, right?<br \>
 wrong.<br \>
@@ -45,9 +54,15 @@ i'll make a funky looking readme - maybe something like my other project pentoxi
 but im just so glad i finally learned a bit of embedded electronics from just a schematic and a bit of thinking!<br \>
 <br \>
 <b>entry time : 3 hours 34 minutes</b><br \>
-<b>total time : 4 hours 15 minutes</b>
+</p>
+
+**total time spent : 4 hours 15 minutes**
+
 <hr>
-<h3>entry 3, 22/07/26 : 08:21 - 08:46, 9:01 - 10:10</h3>
+
+## july 22nd, 2026: entry 3
+
+<p>
 first entry of the day! (and it took a lot longer than i expected)<br \>
 i moved all the silkscreen numbers about and this is what the drc and board look like!<br \>
 i made all the designators 0.8mm x 0.8mm and 0.15mm thick because otherwise they just wouldnt fit :(<br \>
@@ -60,7 +75,9 @@ imported them into kicad and changed the board colour, and this is what it looks
 im really happy with the final product!<br \>
 <br \>
 <b>entry time : 1 hours 34 minutes</b><br \>
-<b>total time : 5 hours 49 minutes</b>
+</p>
+
+**total time spent : 5 hours 49 minutes**
 
 
 
